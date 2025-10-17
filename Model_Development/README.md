@@ -9,15 +9,20 @@ This repository covers model development stage — from **base model optimizatio
 ### `model.ipynb`
  The main development notebook, documenting the full modeling process (recommended starting point).
 
+---
+
 ### `Base_Models_Para_Optimize/`
 Source code of all **base models** with integrated grid search or small-scale hyperparameter optimization.
-
 
 ---
 
 ### `Base_Models_Weighted_Comparison/`
 Experimental comparison of **five linear-type base models**, evaluating the impact of **sample weighting vs. no weighting** on performance.
 
+---
+
+### `Results_Pictures/`
+Our main results in the stage of model development.
 
 ---
 
